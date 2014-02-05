@@ -64,6 +64,9 @@ article blockquote p {
 	line-height: 1.5;
 }
 
+article p {
+  text-align: justify;
+}
 
 /** Section Headers **/
 
